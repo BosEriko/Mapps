@@ -1,0 +1,8 @@
+{
+  "name": "Mapps",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:BosEriko/Mapps.git",
+  "author": "BosEriko <bos.eriko@gmail.com>",
+  "license": "MIT"
+}

@@ -27,7 +27,7 @@ yarn install
 ```
 _Note: Please always use Yarn so that you don't generate package-lock.json by mistake_
 
-Then install Expo globally to use its CLI
+Then install Expo globally to use its CLI:
 
 ```
 npm install -g expo-cli
@@ -46,4 +46,32 @@ Then you can run the project:
 cd MappsExpo
 yarn android
 yarn ios
+```
+
+## Run the project
+
+On the web:
+
+```
+npm run web
+```
+
+On your Android device:
+
+```
+npm run expo
+```
+
+As React Native only:
+
+```
+npm start
+```
+
+## Run Tests
+
+Tests use Jest and you can run it with this command:
+
+```
+npm run test
 ```

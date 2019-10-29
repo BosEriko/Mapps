@@ -1,8 +1,8 @@
 {
-  "name": "MappsExpo",
+  "name": "Mapps",
   "displayName": "Mapps",
   "expo": {
-    "name": "MappsExpo",
+    "name": "Mapps",
     "slug": "expo-template-bare",
     "privacy": "unlisted",
     "sdkVersion": "35.0.0",

@@ -29,9 +29,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "MappsExpo.app"
-               BlueprintName = "MappsExpo"
-               ReferencedContainer = "container:MappsExpo.xcodeproj">
+               BuildableName = "Mapps.app"
+               BlueprintName = "Mapps"
+               ReferencedContainer = "container:Mapps.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "MappsExpoTests.xctest"
-               BlueprintName = "MappsExpoTests"
-               ReferencedContainer = "container:MappsExpo.xcodeproj">
+               BuildableName = "MappsTests.xctest"
+               BlueprintName = "MappsTests"
+               ReferencedContainer = "container:Mapps.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -61,9 +61,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "MappsExpoTests.xctest"
-               BlueprintName = "MappsExpoTests"
-               ReferencedContainer = "container:MappsExpo.xcodeproj">
+               BuildableName = "MappsTests.xctest"
+               BlueprintName = "MappsTests"
+               ReferencedContainer = "container:Mapps.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -71,9 +71,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "MappsExpo.app"
-            BlueprintName = "MappsExpo"
-            ReferencedContainer = "container:MappsExpo.xcodeproj">
+            BuildableName = "Mapps.app"
+            BlueprintName = "Mapps"
+            ReferencedContainer = "container:Mapps.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -94,9 +94,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "MappsExpo.app"
-            BlueprintName = "MappsExpo"
-            ReferencedContainer = "container:MappsExpo.xcodeproj">
+            BuildableName = "Mapps.app"
+            BlueprintName = "Mapps"
+            ReferencedContainer = "container:Mapps.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -113,9 +113,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "MappsExpo.app"
-            BlueprintName = "MappsExpo"
-            ReferencedContainer = "container:MappsExpo.xcodeproj">
+            BuildableName = "Mapps.app"
+            BlueprintName = "Mapps"
+            ReferencedContainer = "container:Mapps.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

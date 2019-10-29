@@ -36,14 +36,14 @@ npm install -g expo-cli
 Before running your app on iOS, make sure you have CocoaPods installed and initialize the project:
 
 ```
-cd MappsExpo/ios
+cd Mapps/ios
 pod install
 ```
 
 Then you can run the project:
 
 ```
-cd MappsExpo
+cd Mapps
 yarn android
 yarn ios
 ```

@@ -1,4 +1,4 @@
-package com.mappsexpo;
+package com.mapps;
 
 import android.app.Application;
 
@@ -7,7 +7,7 @@ import com.facebook.react.ReactNativeHost;
 import com.facebook.react.ReactPackage;
 import com.facebook.react.shell.MainReactPackage;
 import com.facebook.soloader.SoLoader;
-import com.mappsexpo.generated.BasePackageList;
+import com.mapps.generated.BasePackageList;
 import com.swmansion.gesturehandler.react.RNGestureHandlerPackage;
 import com.swmansion.reanimated.ReanimatedPackage;
 import com.swmansion.rnscreens.RNScreensPackage;

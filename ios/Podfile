@@ -2,8 +2,8 @@ platform :ios, '10.0'
 
 require_relative '../node_modules/react-native-unimodules/cocoapods'
 
-target 'MappsExpo' do
-  # Pods for MappsExpo
+target 'Mapps' do
+  # Pods for Mapps
   pod 'React', :path => '../node_modules/react-native', :subspecs => [
     'Core',
     'CxxBridge',
